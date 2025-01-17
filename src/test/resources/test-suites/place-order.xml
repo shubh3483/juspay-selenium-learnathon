@@ -1,0 +1,7 @@
+<suite name="product-order">
+    <test name="single-product-order">
+        <classes>
+            <class name="com.juspay.tests.productorder.ProductOrderTest"/>
+        </classes>
+    </test>
+</suite>
